@@ -1,0 +1,47 @@
+# Xcode
+.DS_Store
+xcuserdata/
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+*.lock
+DerivedData/
+.idea/
+*.xcworkspace/
+
+# Carthage
+Carthage/Checkouts
+Carthage/Build
+
+# Compiled source
+*.dylib
+*.so
+*.a
+
+# Generated files
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Dependencies
+Podfile.lock
+Cartfile.resolved
+
+# Swift Package Manager
+.Package.resolved
+
+# App-specific
+/*.xccheckout
+/*.xcscmblueprint
+*.xcodeproj/xcuserdata/
+!*.xcodeproj/xcshareddata/
+/*.xcodeproj/project.xcworkspace/xcuserdata/
+!*.xcodeproj/project.xcworkspace/xcshareddata/
+
+# SwiftPM
+Package.resolved
+.build/
