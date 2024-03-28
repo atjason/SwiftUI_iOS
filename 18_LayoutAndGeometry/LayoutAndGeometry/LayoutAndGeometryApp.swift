@@ -1,8 +1,8 @@
 //
-//  _8_LayoutAndGeometryApp.swift
-//  18_LayoutAndGeometry
+//  LayoutAndGeometryApp.swift
+//  LayoutAndGeometry
 //
-//  Created by Jason Zheng on 2024/3/27.
+//  Created by Jason Zheng on 2024/3/28.
 //
 
 import SwiftUI
